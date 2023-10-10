@@ -1,4 +1,4 @@
-# Concentration
+# Concentration Game
 Welcome to the Concentration! This Java-based project implements a classic memory-matching card game. 
 The objective is to match pairs of cards in the shortest time and with the fewest moves possible.
 
